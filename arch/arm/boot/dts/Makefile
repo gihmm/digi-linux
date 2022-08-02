@@ -661,6 +661,8 @@ dtb-$(CONFIG_SOC_IMX6UL) += \
 	imx6ul-ccimx6ulstarter-id129.dtb \
 	imx6ul-ccimx6ulstarter-wb.dtb \
 	imx6ul-ccimx6ulstarter-wb-mfg.dtb \
+	imx6ul-ccimx6ulsbc-wb-webdl4-1.dtb \
+	imx6ul-ccimx6ulsbc-webdl4-1.dtb \
 	imx6ull-14x14-evk.dtb \
 	imx6ull-14x14-evk-emmc.dtb \
 	imx6ull-14x14-evk-btwifi.dtb \
